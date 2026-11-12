@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><clipPath id="c"><rect width="1200" height="630"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="630" fill="#163F33"/>
+<g fill="none" stroke-width="14">
+<circle cx="1080" cy="-120" r="300" stroke="#1F5C4A"/><circle cx="1080" cy="-120" r="360" stroke="#1F5C4A"/><circle cx="1080" cy="-120" r="420" stroke="#0599A3" stroke-opacity=".55"/><circle cx="1080" cy="-120" r="480" stroke="#1F5C4A"/><circle cx="1080" cy="-120" r="540" stroke="#1F5C4A"/><circle cx="1080" cy="-120" r="600" stroke="#BEE055" stroke-opacity=".5"/><circle cx="1080" cy="-120" r="660" stroke="#1F5C4A"/>
+</g>
+<!-- logo is composited at x=80 y=70, 83x108 by the build step -->
+<text x="182" y="120" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="700" font-size="24" letter-spacing="3" fill="#EAF3EC">COMMUNITY</text>
+<text x="182" y="150" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="700" font-size="24" letter-spacing="3" fill="#EAF3EC">CARBONATES</text>
+<text font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="800" font-size="70" fill="#FFFFFF" letter-spacing="-1"><tspan x="80" y="292">Turning Urban</tspan><tspan x="80" y="372">Infrastructure into</tspan><tspan x="80" y="452">Carbon Sinks.</tspan></text>
+<text x="80" y="540" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="30" fill="#A9C4B6">Engineered flowstones that capture CO₂ from ambient air.</text>
+</g></svg>
